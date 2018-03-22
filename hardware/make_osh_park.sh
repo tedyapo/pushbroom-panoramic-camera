@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BOARDS=(tsl3301cl_cs_mount)
+BOARDS=(tsl3301cl_cs_mount receiver)
 OSHP_FILES=(topsilkscreen.ger topsoldermask.ger toplayer.ger \
             bottomsilkscreen.ger bottomsoldermask.ger bottomlayer.ger \
             boardoutline.ger drills.xln)
